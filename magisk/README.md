@@ -1,10 +1,10 @@
 # Project Infinity X 3.x Tweaks Magisk Module
 
 ### Version:
-v1.0
+v1.1
 
 ### Last Updated:
-08/16/25
+08/26/25
 
 ## Description
 This improves overall System performance without overheating and losing battery power for devices running Project Infinity X 3.x or higher
@@ -17,7 +17,7 @@ This improves overall System performance without overheating and losing battery 
 ## Requirements:
 - Magisk 20.4 or higher
 - Android 10 or higher
-- Project Infinity X 3..x installed
+- Project Infinity X 3.x or higher installed
 - Rooted device
 
 ## Changelog

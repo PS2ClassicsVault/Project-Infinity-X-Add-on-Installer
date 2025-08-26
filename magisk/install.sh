@@ -28,7 +28,7 @@ REPLACE="
 print_modname() {
   ui_print "*******************************"
   ui_print "        Infinity X 3.x         "
-  ui_print "    By Cyberdev | Ver: v1.0    "
+  ui_print "    By Cyberdev | Ver: v1.1    "
   ui_print "*******************************"
 }
 
