@@ -216,25 +216,16 @@ ro.gps.agps_port=7276
 ro.networklocation.provider=1
 
 # Graphics configuration
+debug.egl.force_msaa=1
 debug.egl.buffcount=3
-ro.config.dha_tunable=1
-debug.composition.type=dyn
-persist.sys.composition.type=dyn
+debug.composition.type=gpu
+persist.sys.composition.type=gpu
 debug.egl.hw=1
 debug.sf.hw=1
 video.accelerate.hw=1
 ro.hdmi.enable=true
 persist.sys.ui.hw=1
 debug.gr.numframebuffers=3
-ro.launcher.blur.appLaunch=0
-ro.surface_flinger.supports_background_blur=0
-ro.sf.blurs_are_expensive=0
-persist.sys.sf.disable_blurs=true
-enable_blurs_on_windows=0
-disableBlurs=true
-ro.sf.blurs_are_caro=1
-ro.miui.has_real_blur=0
-persist.sys.background_blur_supported=false
 
 # Display configuration 
 windowsmgr.max_events_per_sec=500
@@ -277,47 +268,6 @@ ro.config.vc_call_steps=20
 ro.config.dha_tunnable=1
 persist.cust.tel.eons=1
 ro.gsm.2nd_data_retry_config=max/_retries=1, 1000, 1000, 1000
-persist.rcs.supported=1
-DEVICE_PROVISIONED=1
-persist.data_netmgrd_mtu=1500
-persist.radio.nr_mode_pref=1
-persist.radio.nr5g_band=78
-persist.radio.nr5g_bandwidth=100
-persist.radio.nr5g_mimo=4x4
-persist.radio.nr5g_scs=30
-ro.ril.enable.5g=1
-ro.ril.enable.nr=1
-ro.ril.nr_mode=1
-ro.ril.nr5g_band=78
-ro.ril.nr5g_bandwidth=100
-ro.ril.nr5g_mimo=4x4
-ro.ril.nr5g_scs=30
-persist.sys.radio.force_lte_ca=true
-persist.radio.lte_vrte_ltd=1
-persist.radio.lte_vrte=1
-ro.ril.hsxpa=3
-ro.ril.gprsclass=10
-ro.ril.hsdpa.category=10
-ro.ril.hsupa.category=6
-ro.ril.enable.dtm=1
-ro.ril.gprsclass=12
-ro.ril.hsdpa.category=14
-ro.ril.hsupa.category=6
-net.tethering.noproxy=true
-ro.carrier=Unknown
-persist.radio.volte.dan_support=true
-persist.radio.rat_on=combine
-persist.radio.data_ltd_sys_ind=1
-persist.radio.data_con_rprt=1
-persist.radio.calls.on.ims=1
-persist.radio.VT_ENABLE=1
-ro.ril.enable.3g.prefix=1
-ro.ril.enable.4g.prefix=1
-ro.ril.enable.5g.prefix=1
-persist.dbg.ims_volte_enable=1
-persist.dbg.volte_avail_ovr=1
-persist.dbg.vt_avail_ovr=1
-persist.dbg.wfc_avail_ovr=1
 
 # Network configuration
 net.tcp.buffersize.default=4096,87380,256960, 4096, 16384,256960
