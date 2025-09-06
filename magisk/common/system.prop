@@ -64,14 +64,14 @@ vendor.audio_hal.period_size=120
 vendor.audio_hal.period_multiplier=1
 vendor.audio.adm.buffering.ms=2
 persist.bluetooth.sbc_hd_higher_bitrate=1
-ro.audio.resampler.psd.enable_at_samplerate=44100
+ro.audio.resampler.psd.enable_at_samplerate=48000
 ro.audio.resampler.psd.stopband=179
 ro.audio.resampler.psd.halflength=408
 ro.audio.resampler.psd.tbwcheat=99
-ro.audio.samplerate=192000
-ro.audio.pcm.samplerate=19200
+ro.audio.samplerate=48000
+ro.audio.pcm.samplerate=48000
 persist.audio.pcm.channels=2
-af.resample=96000
+af.resample=48000
 af.resampler.quality=100
 dev.pm.dyn_samplingrate=1
 audio.deep_buffer.media=false 
@@ -162,6 +162,9 @@ persist.bluetooth.sbc_hd_higher_bitrate=1
 persist.sys.flag.override.settings_bluetooth_hearing_aid=true
 ro.bluetooth.emb_wp_mode=true
 ro.bluetooth.wipower=true
+persist.bluetooth.driver_override=1
+bluetooth.sleepmode=false
+persist.bluetooth.gaming_mode=1
 
 # CPU configuration
 debug.performance.tuning=1
@@ -357,5 +360,10 @@ use.voice.path.for.pcm.voip=true
 ro.hardware.qemu=0
 ro.kernel.android.checkjni=0
 persist.sys.usb.config=mass_storage,mtp
+usb.hs_polling_time=1
+persist.sys.rawinput=true
+persist.game.input.enable=true
+persist.usb.host_controller=1
+persist.usb.host_controller.polling_interval=1
 
 #####Cyberdev#####
