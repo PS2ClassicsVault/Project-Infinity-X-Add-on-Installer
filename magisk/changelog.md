@@ -3,6 +3,11 @@ https://www.paypal.me/ps2cv
 
 If you encounter bug or issue please submit a new issue ticket!
 
+## v1.3
+- Added Bluetooth stability tweaks
+- Added tweaks for controllers
+- Reduced audio sample rate to 48KHz
+
 ## v1.2
 - Re-Enabled 4x mssa
 - Set composition back to gpu

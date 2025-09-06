@@ -1,10 +1,10 @@
 # Project Infinity X 3.x Tweaks Magisk Module
 
 ### Version:
-v1.2
+v1.3
 
 ### Last Updated:
-09/03/25
+09/06/25
 
 ## Description
 This improves overall System performance without overheating and losing battery power for devices running Project Infinity X 3.x or higher
