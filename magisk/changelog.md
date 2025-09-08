@@ -3,6 +3,9 @@ https://www.paypal.me/ps2cv
 
 If you encounter bug or issue please submit a new issue ticket.
 
+## v1.5:
+- Hotfix: Performance fix with audio
+
 ## v1.4:
 - Fixed low volume bug
 
