@@ -3,6 +3,12 @@ https://www.paypal.me/ps2cv
 
 If you encounter bug or issue please submit a new issue ticket.
 
+## v1.6:
+- Improved audio quality
+- Improved audio/video buffering
+- Fixed some lines that were not properly formatted.
+- Improved cellular connection
+
 ## v1.5:
 - Hotfix: Performance fix with audio
 
