@@ -234,10 +234,11 @@ video.accelerate.hw=1
 ro.hdmi.enable=true
 persist.sys.ui.hw=1
 debug.gr.numframebuffers=3
+ro.hwui.use_vulkan=1
 
 # Display configuration 
-windowsmgr.max_events_per_sec=500
-windowsmgr.min_events_per_sec=120
+windowsmgr.max_events_per_sec=120
+windowsmgr.min_events_per_sec=60
 ro.min_pointer_dur=8 
 ro.max.fling_velocity=12000
 ro.min.fling_velocity=8000
