@@ -3,13 +3,18 @@ https://www.paypal.me/ps2cv
 
 If you encounter bug or issue please submit a new issue ticket.
 
-## v1.6:
+## v1.7
+- Set hwui to use vulkan as default.
+- Set fps cap to 60 fps min and 120fps max
+- Decreased windowsmgr events from 500fps Max to 120fps Max to improve battery life without loss of system performance and to reduce system thermal output.
+
+## v1.6
 - Improved audio quality
 - Improved audio/video buffering
 - Fixed some lines that were not properly formatted.
 - Improved cellular connection
 
-## v1.5:
+## v1.5
 - Hotfix: Performance fix with audio
 
 ## v1.4:
