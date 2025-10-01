@@ -3,6 +3,10 @@ https://www.paypal.me/ps2cv
 
 If you encounter bug or issue please submit a new issue ticket.
 
+## v1.8
+- Small improvements.
+- Added hardware performance tweaks not previously used in older versions of this module.
+
 ## v1.7
 - Set hwui to use vulkan as default.
 - Set fps cap to 60 fps min and 120fps max
