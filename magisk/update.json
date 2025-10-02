@@ -1,6 +1,6 @@
 {
-  "version": "v1.8",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/PS2ClassicsVault/Project-Infinity-X-Add-on-Installer/releases/download/1.8/PIX_3.x_Tweaks-v1.8.zip",
+  "version": "v1.9",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/PS2ClassicsVault/Project-Infinity-X-Add-on-Installer/releases/download/1.9/PIX_3.x_Tweaks-v1.9.zip",
   "changelog": "https://raw.githubusercontent.com/PS2ClassicsVault/Project-Infinity-X-Add-on-Installer/refs/heads/main/magisk/changelog.md"
 }

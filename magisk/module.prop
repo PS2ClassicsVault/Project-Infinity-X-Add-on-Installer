@@ -1,7 +1,7 @@
 id=ProjectInfinityXTweaks
 name=Project Infinity X 3.x Tweaks
-version=v1.8
-versionCode=9
+version=v1.9
+versionCode=10
 author=Cyberdev
 description=Improves system performance on Project Infinity X firmwares 3.x & higher (Android 16+) - Not APatch Compatible!
 updateJson=https://raw.githubusercontent.com/PS2ClassicsVault/Project-Infinity-X-Add-on-Installer/refs/heads/main/magisk/update.json

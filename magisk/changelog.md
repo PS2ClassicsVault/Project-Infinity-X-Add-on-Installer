@@ -3,6 +3,10 @@ https://www.paypal.me/ps2cv
 
 If you encounter bug or issue please submit a new issue ticket.
 
+## v1.9
+- Enabled battery bypass
+- Added 60Hz for games to be on by default.
+
 ## v1.8
 - Small improvements.
 - Added hardware performance tweaks not previously used in older versions of this module.
