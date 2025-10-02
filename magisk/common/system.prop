@@ -234,6 +234,7 @@ persist.sys.ui.hw=1
 debug.gr.numframebuffers=3
 ro.hwui.use_vulkan=1
 debug.egl.profiler=1
+ro.surface_flinger.game_default_frame_rate_override=60
 
 # Display configuration 
 windowsmgr.max_events_per_sec=120
@@ -372,6 +373,7 @@ log.tag.launcher_force_rotate=VERBOSE
 # Battery configuration
 wifi.supplicant_scan_interval=200
 persist.wifi_scan_interval=200
+persist.sys.battery_bypass_supported=true
 
 # Hardware configuration
 persist.android.strictmode=0
