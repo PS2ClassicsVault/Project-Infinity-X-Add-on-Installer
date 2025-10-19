@@ -3,6 +3,9 @@ https://www.paypal.me/ps2cv
 
 If you encounter bug or issue please submit a new issue ticket.
 
+## v2.0
+- Updated network tweaks
+
 ## v1.9
 - Enabled battery bypass
 - Added 60Hz for games to be on by default.
