@@ -1,7 +1,8 @@
-Donations:
-https://www.paypal.me/ps2cv
-
 If you encounter bug or issue please submit a new issue ticket.
+
+## v2.1
+- Restructured the module
+- Set Disable HW Overlays to On
 
 ## v2.0
 - Updated network tweaks
